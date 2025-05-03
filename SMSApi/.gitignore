@@ -1,0 +1,31 @@
+# Build Folders
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Logs
+*.log
+
+# Visual Studio Code
+.vscode/
+
+# Configuration
+appsettings.*.json
+
+# Dependency directories
+node_modules/
+wwwroot/lib/
+
+# Publish output
+publish/
+*.publishsettings
+
+# Temporary files
+*.tmp
+*.temp
+*.cache
