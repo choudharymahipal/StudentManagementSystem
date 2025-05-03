@@ -32,6 +32,7 @@ Full-Stack Student Management System with Angular + .NET Core + MySQL
 8. Add package Entity Framework Design
 ```
     dotnet add package Microsoft.EntityFrameworkCore.Design
+    dotnet add package Pomelo.EntityFrameworkCore.MySql
 ```
 10. Execute the below command form verify the EF Installation
 ```
